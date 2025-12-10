@@ -1,6 +1,6 @@
 services:
   - type: worker
-    name: my-discord-bot
+    name: discord-bot
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
