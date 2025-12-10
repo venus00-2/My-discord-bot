@@ -1,9 +1,3 @@
-[project]
-name = "repl-nix-workspace"
-version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.11"
-dependencies = [
-    "discord-py>=2.6.4",
-    "openai>=2.9.0",
-]
+ url=https://github.com/venus00-2/My-discord-bot/blob/e7fce7e7dbcc25c3d6116cfcca8ac53fa4e15a9d/requirements.txt
+discord.py==2.2.2
+python-dotenv==1.0.0
